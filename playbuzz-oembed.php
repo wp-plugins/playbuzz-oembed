@@ -2,7 +2,7 @@
 /*
 Plugin Name: Playbuzz oEmbed
 Description: Adds oEmbed support for Playbuzz.com
-Version: 1.0
+Version: 1.1
 Author: Rami Yushuvaev
 Author URI: http://GenerateWP.com
 Contributors: ramiy
