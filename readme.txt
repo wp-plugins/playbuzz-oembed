@@ -44,9 +44,14 @@ In minutes you can upgrade your site to include highly engaging viral content, u
 
 Playbuzz is an open network for end users, publishers, bloggers and brands to create and share playful content.
 
+== Screenshots ==
+1. Pasting the URL to the text-editor.
+2. Pasting the URL to the visual-editor.
+
 == Changelog ==
 
 = 1.2 =
+* Add screenshots.
 * Add i18n support.
 * Add hebrew (he_IL) traslation.
 
