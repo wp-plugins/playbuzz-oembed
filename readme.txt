@@ -1,11 +1,11 @@
 === Playbuzz oEmbed ===
-Author URI: http://GenerateWP.com
+Author URI: http://GenerateWP.com/
 Author: Rami Yushuvaev
 Contributors: ramiy
 Tags: Playbuzz, Playful Content, oEmbed
 Requires at least: 3.5
 Tested up to: 4.1.1
-Stable tag: 1.1
+Stable tag: 1.2
 
 Add Playbuzz.com to the WordPress oEmbed providers
 
@@ -22,8 +22,8 @@ In minutes you can upgrade your site to include highly engaging viral content, u
 = Installation =
 1. In your WordPress Dashboard go to "Plugins" -> "Add Plugin".
 2. Search for "Playbuzz oEmbed".
-3. Install playbuzz plugin by pressing the plugin "Install" button.
-4. Activate the playbuzz plugin.
+3. Install the plugin by pressing the "Install" button.
+4. Activate the plugin by pressing the "Activate" button.
 
 = Updating =
 * Use WordPress automatic updates to upgrade to the latest version. Ensure to backup your site just in case.
@@ -45,6 +45,10 @@ In minutes you can upgrade your site to include highly engaging viral content, u
 Playbuzz is an open network for end users, publishers, bloggers and brands to create and share playful content.
 
 == Changelog ==
+
+= 1.2 =
+* Add i18n support.
+* Add hebrew (he_IL) traslation.
 
 = 1.1 =
 * readme.txt updates.
