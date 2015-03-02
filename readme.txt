@@ -41,7 +41,6 @@ In minutes you can upgrade your site to include highly engaging viral content, u
 == Frequently Asked Questions ==
 
 = What is Playbuzz? =
-
 Playbuzz is an open network for end users, publishers, bloggers and brands to create and share playful content.
 
 == Screenshots ==
