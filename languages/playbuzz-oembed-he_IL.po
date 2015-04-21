@@ -4,25 +4,29 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Playbuzz oEmbed 1.2\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/playbuzz-oembed\n"
-"POT-Creation-Date: 2015-03-02 18:05:44+00:00\n"
-"PO-Revision-Date: 2015-03-02 20:16+0200\n"
+"POT-Creation-Date: 2015-04-21 06:51:17+00:00\n"
+"PO-Revision-Date: 2015-04-21 09:53+0200\n"
 "Last-Translator: Rami Y <r_a_m_i@hotmail.com>\n"
 "Language-Team: Rami Yushuvaev <r_a_m_i@hotmail.com>\n"
 "Language: he_IL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.7.4\n"
+"X-Generator: Poedit 1.7.5\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #. Plugin Name of the plugin/theme
 msgid "Playbuzz oEmbed"
-msgstr "פלייבאז oEmbed"
+msgstr "הטמעת תכנים מפלייבאז"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/playbuzz-oembed/"
+msgstr "https://wordpress.org/plugins/playbuzz-oembed/"
 
 #. Description of the plugin/theme
-msgid "Adds oEmbed support for Playbuzz.com"
-msgstr "הוספת תמיכה בהטמעת תכנים אוטומטיים באמצעות פרוטוקול oEmbed מאתר Playbuzz.com"
+msgid "Embed playful content from Playbuzz.com into your WordPress site"
+msgstr "הטמעת תכנים ויראליים מאתר Playbuzz.com לאתר הוורדפרס שלך"
 
 #. Author of the plugin/theme
 msgid "Rami Yushuvaev"
@@ -31,3 +35,6 @@ msgstr "רמי יושובייב"
 #. Author URI of the plugin/theme
 msgid "http://GenerateWP.com/"
 msgstr "http://GenerateWP.com/"
+
+#~ msgid "Adds oEmbed support for Playbuzz.com"
+#~ msgstr "הוספת תמיכה בהטמעת תכנים אוטומטיים באמצעות פרוטוקול oEmbed מאתר Playbuzz.com"
