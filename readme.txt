@@ -49,9 +49,9 @@ In minutes you can upgrade your site to include highly engaging viral content, u
 With this plugin you can use the URL to embed content. Just paste the item URL into your post editor:
 `https://www.playbuzz.com/larak10/what-country-in-the-world-best-fits-your-personality`
 
-= How do I set custom dimentions to my chart? =
+= How do I set custom dimentions to my content? =
 
-In wordpress 4.2 you can double click the embedded chart and set max `width` and max `height` dimentions. It will add the WordPress `[embed]` shortcode:
+In wordpress 4.2 you can double click the embedded content and set max `width` and max `height` dimentions. It will add the WordPress `[embed]` shortcode:
 `[embed width="600" height="400"]https://www.playbuzz.com/larak10/what-country-in-the-world-best-fits-your-personality[/embed]`
 
 **Note:** Doing it the WordPress way, using the `[embed]` shortcode, is backwards and forward compatible, and it works  with all the themes.
