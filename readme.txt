@@ -1,5 +1,5 @@
 === Playbuzz oEmbed ===
-Contributors: GenerateWP, ramiy
+Contributors: ramiy
 Tags: Playbuzz, Playful Content, oEmbed
 Requires at least: 3.5
 Tested up to: 4.3
@@ -11,11 +11,21 @@ Embed playful content from Playbuzz.com into your WordPress site
 
 == Description ==
 
+Create playful content on playbuzz platform and embed them in any WordPress site.
+
+= About Playbuzz =
+
 [Playbuzz](https://www.playbuzz.com) is an open network for end users, publishers, bloggers and brands to create and share playful content such as quizzes, lists, polls and galeries.
+
+In minutes you can upgrade your site to include highly engaging viral content, using playbuzz's playful content.
+
+= Playbuzz oEmbed Plugin =
 
 Using this plugin you can embed playful content from playbuzz to your WordPress site using nothing but the URL. Just copy the item URL from [playbuzz.com](https://www.playbuzz.com) and paste it to your post text editor. Then simply click over to the visual editor to confirm that it loads properly.
 
-In minutes you can upgrade your site to include highly engaging viral content, using playbuzz's playful content.
+= More Information =
+
+For any questions or more information, please [contact us](https://www.playbuzz.com/contact).
 
 == Installation ==
 
